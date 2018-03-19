@@ -1,0 +1,14 @@
+{
+  "name": "porttunnel",
+  "version": "1.0.0",
+  "description": "Used instead of port forwarding for my home server",
+  "main": "tunnel.js",
+  "scripts": {
+    "start": "node tunnel.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "localtunnel": "^1.8.3"
+  }
+}
